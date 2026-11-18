@@ -1,5 +1,5 @@
 """Tiny text statistics helpers."""
 
-from .core import average_word_length, word_count
+from .core import average_word_length, top_words, word_count
 
-__all__ = ["word_count", "average_word_length"]
+__all__ = ["average_word_length", "top_words", "word_count"]

@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/textstats/__init__.py
+src/textstats/core.py
+src/textstats.egg-info/PKG-INFO
+src/textstats.egg-info/SOURCES.txt
+src/textstats.egg-info/dependency_links.txt
+src/textstats.egg-info/requires.txt
+src/textstats.egg-info/top_level.txt
+tests/test_core.py
+tests/test_top_words.py
